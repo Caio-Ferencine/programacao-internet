@@ -1,0 +1,118 @@
+table{
+    width: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    
+}
+
+
+th{
+    color: white;
+    background-color: #0d5188;
+    font-weight: bold;
+    
+}
+
+.nomecidade{
+    color: #0d5188;
+    background-color: #c7e7f3;
+    font-weight: bold;
+}
+
+.posicao{
+    background-color: silver;
+    width: 60px;
+    text-align: center;
+}
+
+.primeiralinha{
+    font-weight: bold;
+    background-color: #66c5e3;
+}
+
+.pop{
+    width: 90px ;
+    text-align: center;
+    
+    
+}
+
+.numpop{
+    background-color: #c7e7f3;
+    text-align: center;
+}
+
+.tabelatimes{
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.libertadores{
+    color:#003366 ;
+    text-align: center;
+    height: 18px;
+    font-weight: bold;
+
+}
+
+.prelibertadores{
+    color:#1398be ;
+    text-align: center;
+    height: 18px;
+    font-weight: bold;
+
+}
+
+.sulamerica{
+    color:#de9800 ;
+    text-align: center;
+    height: 18px;
+    font-weight: bold;
+
+    
+}
+
+.manteve{
+    color: #cccccc;
+    text-align: center;
+    height: 18px;
+    font-weight: bold;
+
+}
+
+.rebaixado{
+    color:#c91b04 ;
+    text-align: center;
+    height: 18px;
+    font-weight: bold;
+
+}
+
+.coluna{
+    text-align: center;
+    height: 13px;
+    color: #999999;
+    font-weight: bold;
+}
+
+.times{
+    height: 14px;
+    color: #666666;
+    font-weight: bold;
+    text-align: left;
+}
+
+.pontos{
+    height: 14px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.info{
+    height: 14px;
+    color: #666666;
+    text-align: center;
+}
+
+
