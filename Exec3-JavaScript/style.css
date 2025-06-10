@@ -1,0 +1,12 @@
+.metadeaesquerda{
+    float: left;
+    margin-top: 50px;
+}
+
+.metadeadireita{
+    float: right; 
+}
+
+.exerc1{
+    background-color: blue;
+}
